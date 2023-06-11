@@ -1,0 +1,25 @@
+.btn-submit {
+  color: #ffffff;
+  background-color: #dbcc8f;
+  padding: 16px 24px;
+  border-color: #dbcc8f;
+}
+.btn-submit:hover {
+  color: #000000;
+  background-color: #ffffff;
+  padding: 16px 24px;
+  border-color: #dbcc8f;
+}
+
+.btn-all {
+  color: #ffffff;
+  background-color: #000000;
+  padding: 16px 24px;
+  border-color: #dbcc8f;
+}
+.btn-all:hover {
+  color: #000000;
+  background-color: #ffffff;
+  padding: 16px 24px;
+  border-color: #dbcc8f;
+}
